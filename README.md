@@ -1,5 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/mariosantos-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/nevr001/)
+[![Gmail Badge](https://img.shields.io/badge/-mariodev7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariodev7@gmail.com)](mailto:mariodev7@gmail.com)
 
 I'm a Javascript Developer that create mobile apps using React-Native and web apps with ReactJS. I use the figma for create the mockup design of projects. Also, I create RESTful APIs using NodeJS and Express. I've been in the technology area for around 5 years. But in web/mobile area it's been around  2 years. At the moment I study English, and I'm looking to improve my skills in application development.
 I love helpful in projects open source for help lot peoples, and I love entrepreneurship.
