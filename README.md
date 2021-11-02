@@ -28,4 +28,5 @@ You can contact me from badges in top this document.
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-squaree&logo=redux&logoColor=white)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/Device-1A1A1A?style=flat-square&logo=iOS&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-1A1A1A?style=flat-square&logo=Apple&logoColor=white)
