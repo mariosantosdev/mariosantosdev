@@ -15,6 +15,7 @@ You can contact me from badges in top this document.
 
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white)
 ![React-Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white)
+![React-Native](https://img.shields.io/badge/NextJS-111111?style=flat-square&logo=Next.js&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
