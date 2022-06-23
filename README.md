@@ -6,6 +6,8 @@ I'm a Javascript Developer that create mobile apps using React-Native and web ap
 I love helpful in projects open source for help lot peoples, and I love entrepreneurship.
 You can contact me from badges in top this document.
 
+Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/) studying [Sistemas para Internet](https://www.unicesumar.edu.br/ead/cursos-graduacao/sistemas-para-internet/)
+
 ### Languages and Tools:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,3 +33,6 @@ You can contact me from badges in top this document.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/Device-1A1A1A?style=flat-square&logo=iOS&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-1A1A1A?style=flat-square&logo=Apple&logoColor=white)
+
+### Most used languages on GitHub
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariosantosdev&layout=compact&langs_count=7&theme=dracula"/>
