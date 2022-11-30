@@ -1,97 +1,39 @@
-![wakatime-readme](https://socialify.git.ci/bymatheus/wakatime-readme/image?description=1&descriptionEditable=M%C3%A9tricas%20semanais%20do%20Wakatime%20no%20seu%20README%20de%20perfil.&font=KoHo&forks=1&language=1&owner=1&pattern=Signal&stargazers=1&theme=Dark)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/mariosantos-dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/mariosantos.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-mariodev7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariodev7@gmail.com)](mailto:mariodev7@gmail.com)
 
-[WakaTime](https://wakatime.com) Metricas semanais do Wakatime no README do seu perfil. <br>
-Inspirado no [projeto](https://github.com/athul/waka-readme) feito em Python do [Athul](https://github.com/athul).
-___
+I'm a Javascript Developer that create mobile apps using React-Native and web apps with ReactJS. I born in 2003, and around 2016 I into in the technology area, in end of 2018 I started on developer mobile apps with React Native, (below you can know more about my tools) I ever looking improve my skills!
+I love helpful in projects open source for help lot peoples, and I love entrepreneurship.
+You can contact me from badges in top this document.
 
-# Suas métricas atualizadas diariamente.
-Este script usa a API do WAKATIME para atualizar seu readme diariamente com suas métricas de desenvolvimento.
+Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/) studying [Sistemas para Internet](https://www.unicesumar.edu.br/ead/cursos-graduacao/sistemas-para-internet/)
 
-___
+### Languages and Tools:
 
-## Como funciona
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 1. Wakatime
-Você precisa criar uma conta no wakatime <br>
-[Clique aqui para cria-la.](https://wakatime.com) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 
-### 2. Download
-Clone ou baixe este projeto e cole dentro do repositório do seu perfil <nickname/nickname>.
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white)
+![React-Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white)
+![React-Native](https://img.shields.io/badge/NextJS-111111?style=flat-square&logo=Next.js&logoColor=white)
 
-### 3. Customizando o readme com seus dados
-- Dentro da estrutura do projeto você vai entrar o diretorio **markdown**;  
-- No diretório, você vai encontrar dois arquivos *.md*;
-- TOP.md e BOTTOM.md.
-<br><br>
-- O seu README.md vai ser separado em três partes; 
-- O TOP.md, responsável pela parte de cima do seu README;
-- O meio, criado com as métricas do WAKATIME;
-- E o BOTTOM.md, finalizando o arquivo README.md.<br>
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)
 
-> Ambos arquivos dentro do diretório MARKDOWN foram criados para você customizar o seu README.md
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-squaree&logo=redux&logoColor=white)
 
-> Lembre-se de não editar o README.md que se encontra na raiz do repositório, todo o conteúdo será deletado a cada atualização e sobreposto com os dados do ./markdown/TOP e ./markdown/BOTTOM
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/Device-1A1A1A?style=flat-square&logo=iOS&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-1A1A1A?style=flat-square&logo=Apple&logoColor=white)
 
-### 4. Inserindo seu nick no WAKATIME
-- No arquivo **cron.php** você vai encontrar um objeto sendo instânciado e um atributo sendo enviado como parâmetro para o construtor do objeto;
-- Esse atributo se trata do NICKNAME do WAKATIME;
-- Você precisa alterar o atributo para seu NICKNAME do WAKATIME.
+### Most used languages on GitHub
 
-```php
-use MplusC\WakatimeReadme\SearchEngine;
-
-require 'vendor/autoload.php';
-
-$search = new SearchEngine('@SeuNickname');
-$search->process();
-```
-
-### 5. Commitando
-Você pode escolher entre commitar o README já atualizado ou esperar que a action do GitHub o faça. <br>
-
-#### Caso queira enviar atualizado, você precisa ter o *PHP 8* e o *COMPOSER* instalados na sua maquina, e rodar os seguintes comandos no terminal.
-```composer
-composer update
-composer semanal-update 
-```
-
-#### Caso queira aguardar o cron job ser rodado 
-```git 
-git add .
-git commit -m "Sua mensagem de commit"
-git push origin main
-```
-
->O cron job está agendado para rodar todos os dias as 21:30 UTC (00:30 CET-3) 
-
-### Alterando o cron job
-Caso queira editar a action:
-
-- Na pasta .github/workflows você encontrará o arquivo php.yml
-- Basta alterar a hora que gostaria que o cron fosse rodado
-- [Auxilio para criar um cron job](https://crontab.guru)
-
-```yml
-name: PHP Composer
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "5 21 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Update composer
-        run: composer update
-
-      - name: Update stats
-        run: composer semanal-update
-```
-
-### Pronto, seu readme sempre atualizado com suas métricas, essas são as minhas:
-
-___
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariosantosdev&layout=compact&langs_count=7&theme=dracula"/>
