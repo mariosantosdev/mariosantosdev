@@ -32,6 +32,7 @@ class SearchEngine
             ->research();
 
         if ($this->apiHttpStatus !== 200) {
+            echo('Error: ' . $this->apiHttpStatus );
             return;
         }
 
