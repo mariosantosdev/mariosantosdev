@@ -8,7 +8,7 @@ I'm a Javascript Developer that create mobile apps using React-Native and web ap
 I love helpful in projects open source for help lot peoples, and I love entrepreneurship.
 You can contact me from badges in top this document.
 
-Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/) studying [Sistemas para Internet](https://www.unicesumar.edu.br/ead/cursos-graduacao/sistemas-para-internet/)
+Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/) studying [Análise e Desenvolvimento de Sistemas](https://inscricoes.unicesumar.edu.br/curso/analise-e-desenvolvimento-de-sistemas)
 
 ### 👨‍💻 Languages
 
