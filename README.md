@@ -4,7 +4,7 @@ I borned in 2003, and I'm a started turn a software developer since 2016 that wh
 
 Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/) studying [Análise e Desenvolvimento de Sistemas](https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/mariosantos-dev/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/mariosantos7/)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361E?style=flat-square&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/eduardylopes)](https://www.codewars.com/users/mariosantosdev)
 [![Gmail Badge](https://img.shields.io/badge/-mariodev7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mariodev7@gmail.com)](mailto:mariodev7@gmail.com)
 
