@@ -1,6 +1,6 @@
 # It’s me, Mario! 😅
 
-I borned in 2003, and I'm a started turn a software developer since 2016 that when I started study about developing, in 2021 I've got my first job as a fullstack mobile developer. In 2022 I started as a fullstack web/web3 and when I expanded my knowledges. In 2023 I started study English!
+I was born in 2003, and I'm a started turn a software developer since 2016 that when I started study about developing, in 2021 I've got my first job as a fullstack mobile developer. In 2022 I started as a fullstack web/web3 and when I expanded my knowledges. In 2023 I started study English!
 
 Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/) studying [Análise e Desenvolvimento de Sistemas](https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/)
 
