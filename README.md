@@ -1,6 +1,6 @@
 # It’s me, Mario! 😅
 
-I was born in 2003, and I'm a started turn a software developer since 2016 that when I started study about developing, in 2021 I've got my first job as a fullstack mobile developer. In 2022 I started as a fullstack web/web3 and when I expanded my knowledges. In 2023 I started study English!
+I started to study programming around 2016 and worked such as software developer through freelancer experiences in 2021. In 2022, in my first full time opportunity, I started to work as a FullStack developer when I've had contact with teamwork and had many learning experiences. Since then I've studied many languages such as Javascript, Typescript, Python and Solidity and methodologies/architectures such as Microservices, DDD, TDD and Clean Architecture.  
 
 Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/) studying [Análise e Desenvolvimento de Sistemas](https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/)
 
@@ -34,23 +34,26 @@ Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/)
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
 ![Adonis](https://img.shields.io/badge/Adonis-5A45FF?style=flat&logo=adonisJS&logoColor=white)
-![Passport](https://img.shields.io/badge/Passport-34E27A?logo=Passport&logoColor=white)
-![Web3.JS](https://img.shields.io/badge/Web3.JS-F16822?style=flat&logo=Web3.JS&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Knex.JS](https://img.shields.io/badge/KnexJS-D26B38?style=flat&logo=knexdotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport-34E27A?logo=Passport&logoColor=white)
 
 ### 💾 Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 
 ### ☁️ Cloud Computing
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=AmazonAWS&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=AmazonAWS&logoColor=white)
 
