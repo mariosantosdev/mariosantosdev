@@ -1,8 +1,8 @@
 # It’s me, Mario! 😅
 
-I started to study programming around 2016 and worked such as software developer through freelancer experiences in 2021. In 2022, in my first full time opportunity, I started to work as a FullStack developer when I've had contact with teamwork and had many learning experiences. Since then I've studied many languages such as Javascript, Typescript, Python and Solidity and methodologies/architectures such as Microservices, DDD, TDD and Clean Architecture.  
+I started to study programming around 2016 and worked such as software developer through freelancer experiences in 2021. In 2022, in my first full time opportunity, I started to work as a FullStack developer when I've had contact with teamwork and had many learning experiences. Since then I've studied many languages such as GoLang, Javascript, Typescript, Python and Solidity and methodologies/architectures such as Microservices, DDD, TDD and Clean Architecture.  
 
-Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/) studying [Análise e Desenvolvimento de Sistemas](https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/)
+I degree in [Análise e Desenvolvimento de Sistemas](https://www.unicesumar.edu.br/ead/cursos-graduacao/analise-e-desenvolvimento-de-sistemas/) by [UniCesumar](https://www.unicesumar.edu.br/home/)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/mariosantos7/)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361E?style=flat-square&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/eduardylopes)](https://www.codewars.com/users/mariosantosdev)
@@ -10,6 +10,7 @@ Currently I'm do university in [UniCesumar](https://www.unicesumar.edu.br/home/)
 
 ### 👨‍💻 Languages
 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
